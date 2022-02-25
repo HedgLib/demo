@@ -1,12 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "links": [
+    { "app_id": "com.hedgehog.helplib", "app_name": "Egyptian Success", "link": "https://www.dssm.us/0702Ag01", "appsFlyer": "null", "fb":null }
+  ]
 }
